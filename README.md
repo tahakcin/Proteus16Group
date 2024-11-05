@@ -1,3 +1,3 @@
 # Proteus Laboratory Manual
 
-We trying Ege Unıversity's tests for our microcontrollers 101.  
+Welcome to the Proteus Laboratory Manual! This guide is designed to help you explore various microcontroller experiments using Proteus software.
